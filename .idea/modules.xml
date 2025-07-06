@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/curso_nelioalves/EXERCICIOS/EXERCICIOS.iml" filepath="$PROJECT_DIR$/curso_nelioalves/EXERCICIOS/EXERCICIOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_nelioalves/curso_nelioalves.iml" filepath="$PROJECT_DIR$/curso_nelioalves/curso_nelioalves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ws-intelliJ.iml" filepath="$PROJECT_DIR$/.idea/ws-intelliJ.iml" />
+    </modules>
+  </component>
+</project>
