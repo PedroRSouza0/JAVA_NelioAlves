@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicios-Propostos/EX06_triangulo/EX06_triangulo.iml" filepath="$PROJECT_DIR$/Exercicios-Propostos/EX06_triangulo/EX06_triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso_nelioalves/EXERCICIOS/EXERCICIOS.iml" filepath="$PROJECT_DIR$/curso_nelioalves/EXERCICIOS/EXERCICIOS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios-Propostos/Exercicios-Propostos.iml" filepath="$PROJECT_DIR$/Exercicios-Propostos/Exercicios-Propostos.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso_nelioalves/curso_nelioalves.iml" filepath="$PROJECT_DIR$/curso_nelioalves/curso_nelioalves.iml" />
