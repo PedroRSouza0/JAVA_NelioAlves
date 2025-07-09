@@ -1,0 +1,18 @@
+public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        char nome;
+        int x, y;
+        double media;
+        System.out.println("Qual o seu nome?");
+        nome = sc.next().charAt(3);
+        System.out.print("Valor 1: ");
+        x = sc.nextInt();
+        System.out.print("Valor 2: ");
+        y = sc.nextInt();
+        
+        sc.close();
+        media = (double)(x + y)/2;
+        System.out.println("Nome: " + nome);
+        System.out.printf("%d + %d Tem a Média = %.2f\n",x,y,media);
+    }
